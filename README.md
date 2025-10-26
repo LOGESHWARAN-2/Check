@@ -168,8 +168,19 @@ mvn spring-boot:run
 ---
 ## Screenshots
 
-1.Login
+1. Login
+
 <img width="1375" height="728" alt="image" src="https://github.com/user-attachments/assets/a2355ea0-63f7-43bc-aa93-eb90703d5060" />
+
+2. Get All Employees
+
+<img width="1396" height="978" alt="image" src="https://github.com/user-attachments/assets/ebf97c7f-251d-4819-bf4c-7c91dbee1b18" />
+
+<img width="1377" height="911" alt="image" src="https://github.com/user-attachments/assets/30a12818-0201-4fb7-974f-a116b4515d4e" />
+
+
+
+
 
 
 
