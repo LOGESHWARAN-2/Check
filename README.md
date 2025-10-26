@@ -115,22 +115,22 @@ com.example.Check
 ## 📈 Sample Workflow
 
 ```
-             ┌──────────────────────────────┐
-             │          LOGIN PAGE           │
-             │  User selects: Manager/Employee │
+             ┌───────────────────────────────┐
+             │         LOGIN PAGE            │
+             │User selects: Manager/Employee │
              └──────────────┬────────────────┘
                             │
                             ▼
         ┌───────────────────────────────┐
-        │       AUTHENTICATION SERVICE   │
-        │   (Validates username/password)│
+        │      AUTHENTICATION SERVICE   │
+        │  (Validates username/password)│
         └──────────────┬────────────────┘
                        │
           ┌────────────┴──────────────┐
           │                           │
    ┌──────▼───────┐           ┌───────▼────────┐
    │ MANAGER ROLE │           │ EMPLOYEE ROLE  │
-   └──────┬────────┘           └───────┬────────┘
+   └──────┬───────┘           └───────┬────────┘
           │                            │
           │                            │
 ┌─────────▼─────────────┐     ┌────────▼──────────────┐
@@ -142,10 +142,10 @@ com.example.Check
 └─────────┬─────────────┘              │
           │                            │
           │ Assign Task (POST /tasks)  │
-          │──────────────────────────▶ │
+          │────────────────────────▶  │
           │                            │
           │  Employee Completes Task   │
-          │ ◀──────────────────────────│
+          │◀──────────────────────────│
           │                            │
           │ Creates Notification       │
           │ (Stored in DB)             │
@@ -157,8 +157,8 @@ com.example.Check
           │                            │
           ▼                            ▼
  ┌────────────────────────┐    ┌────────────────────────┐
- │ DASHBOARD ANALYTICS    │    │  NOTIFICATIONS MODULE   │
- │ - Total Tasks          │    │  (for both roles)       │
+ │ DASHBOARD ANALYTICS    │    │  NOTIFICATIONS MODULE  │
+ │ - Total Tasks          │    │  (for both roles)      │
  │ - Completed Tasks      │    └────────────────────────┘
  │ - Pending Tasks        │
  └────────────────────────┘
