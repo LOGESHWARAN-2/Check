@@ -166,85 +166,64 @@ mvn spring-boot:run
 ```
 
 ---
-## Screenshots
+---
 
-1. Login
+## 📸 Screenshots
 
-<img width="1375" height="728" alt="image" src="https://github.com/user-attachments/assets/a2355ea0-63f7-43bc-aa93-eb90703d5060" />
-
-
-
-2. Get All Employees
-
-<img width="1396" height="978" alt="image" src="https://github.com/user-attachments/assets/ebf97c7f-251d-4819-bf4c-7c91dbee1b18" />
-
-<img width="1377" height="911" alt="image" src="https://github.com/user-attachments/assets/30a12818-0201-4fb7-974f-a116b4515d4e" />
-
-
-
-3. Get Employee By ID
-
-<img width="1357" height="989" alt="image" src="https://github.com/user-attachments/assets/07511ed0-e9db-4d50-ab78-0c1228010e71" />
-
-
-
-4. Create Employee
-
-<img width="1385" height="811" alt="image" src="https://github.com/user-attachments/assets/8e5a6a32-4623-4073-b259-00313f0398a1" />
-
-
-
-
-5. Delete Employee By ID
-
-<img width="1362" height="583" alt="image" src="https://github.com/user-attachments/assets/8add0fc2-3216-4190-90f0-413f43d20ae6" />
-
-
-
-
-6. Get All Tasks
-
-<img width="1376" height="1000" alt="image" src="https://github.com/user-attachments/assets/59b9413f-851a-4a9f-9a40-715bf0b4bc1c" />
-
-
-
-
-7. Check Assigned Task By Employee ID
-
-<img width="1345" height="967" alt="image" src="https://github.com/user-attachments/assets/2df67ec8-0c5e-435e-ab13-c84aa519a7e3" />
-
-
-
-
-8. Create Task
-
-<img width="1369" height="732" alt="image" src="https://github.com/user-attachments/assets/eb77a021-a80a-44ec-bbd1-c4d983e9355a" />
-
-
-
-
-9. Update Task Status
-
-<img width="1441" height="980" alt="image" src="https://github.com/user-attachments/assets/b32a05ae-746c-43d8-8821-0851893da225" />
-
-
-
-
-10. Notifications for Manager and Employee
-
-<img width="1354" height="871" alt="image" src="https://github.com/user-attachments/assets/4ae21410-d5cf-4dc1-9d15-04ffb41a6805" />
-
-<img width="1354" height="871" alt="image" src="https://github.com/user-attachments/assets/1fec2a8e-cfac-4bbf-ab1c-79b2e077ab5c" />
-
-
-
-
-11. DashBoard
-
-<img width="1382" height="718" alt="image" src="https://github.com/user-attachments/assets/6bb95d19-0bc4-4fbb-b3cf-71819425ec41" />
-
+### 🔐 1. Login
+<img width="1375" alt="Login API" src="https://github.com/user-attachments/assets/a2355ea0-63f7-43bc-aa93-eb90703d5060" />
 
 ---
+
+### 👥 2. Employee Management
+
+#### Get All Employees
+<img width="1396" alt="Get All Employees" src="https://github.com/user-attachments/assets/ebf97c7f-251d-4819-bf4c-7c91dbee1b18" />
+
+<img width="1377" alt="Employee List Response" src="https://github.com/user-attachments/assets/30a12818-0201-4fb7-974f-a116b4515d4e" />
+
+#### Get Employee By ID
+<img width="1357" alt="Get Employee By ID" src="https://github.com/user-attachments/assets/07511ed0-e9db-4d50-ab78-0c1228010e71" />
+
+#### Create Employee
+<img width="1385" alt="Create Employee" src="https://github.com/user-attachments/assets/8e5a6a32-4623-4073-b259-00313f0398a1" />
+
+#### Delete Employee By ID
+<img width="1362" alt="Delete Employee" src="https://github.com/user-attachments/assets/8add0fc2-3216-4190-90f0-413f43d20ae6" />
+
+---
+
+### 📝 3. Task Management
+
+#### Get All Tasks
+<img width="1376" alt="Get All Tasks" src="https://github.com/user-attachments/assets/59b9413f-851a-4a9f-9a40-715bf0b4bc1c" />
+
+#### Check Assigned Tasks By Employee ID
+<img width="1345" alt="Tasks By Employee" src="https://github.com/user-attachments/assets/2df67ec8-0c5e-435e-ab13-c84aa519a7e3" />
+
+#### Create Task
+<img width="1369" alt="Create Task" src="https://github.com/user-attachments/assets/eb77a021-a80a-44ec-bbd1-c4d983e9355a" />
+
+#### Update Task Status
+<img width="1441" alt="Update Task Status" src="https://github.com/user-attachments/assets/b32a05ae-746c-43d8-8821-0851893da225" />
+
+---
+
+### 🔔 4. Notifications
+
+#### Manager Notifications
+<img width="1354" alt="Manager Notifications" src="https://github.com/user-attachments/assets/4ae21410-d5cf-4dc1-9d15-04ffb41a6805" />
+
+#### Employee Notifications
+<img width="1354" alt="Employee Notifications" src="https://github.com/user-attachments/assets/1fec2a8e-cfac-4bbf-ab1c-79b2e077ab5c" />
+
+---
+
+### 📊 5. Dashboard Analytics
+<img width="1382" alt="Dashboard Summary" src="https://github.com/user-attachments/assets/6bb95d19-0bc4-4fbb-b3cf-71819425ec41" />
+
+---
+
 ## 🧑‍💻 Author
 **Logeshwaran S**  
 📧 logeshwarans2910@gmail.com
