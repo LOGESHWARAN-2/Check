@@ -29,6 +29,42 @@
 
 ---
 
+## 📂 Project Structure
+```
+com.example.Check
+ ├── controller/
+ │    ├── AuthController.java
+ │    ├── EmployeeController.java
+ │    ├── TaskController.java
+ │    ├── DashboardController.java
+ │    └── NotificationController.java
+ │
+ ├── entity/
+ │    ├── User.java
+ │    ├── Employee.java
+ │    ├── Task.java
+ │    ├── Notification.java
+ │    ├── Role.java
+ │    └── TaskStatus.java
+ │
+ ├── repository/
+ │    ├── UserRepository.java
+ │    ├── EmployeeRepository.java
+ │    ├── TaskRepository.java
+ │    └── NotificationRepository.java
+ │
+ ├── service/
+ │    ├── AuthService.java
+ │    ├── EmployeeService.java
+ │    ├── TaskService.java
+ │    ├── NotificationService.java
+ │    └── DashboardService.java
+ │
+ └── CheckApplication.java
+```
+
+---
+
 ## ⚙️ Setup Instructions
 
 ### 🧩 1. Clone the Repository
@@ -76,41 +112,6 @@ mvn spring-boot:run
 
 ---
 
-## 📂 Project Structure
-```
-com.example.Check
- ├── controller/
- │    ├── AuthController.java
- │    ├── EmployeeController.java
- │    ├── TaskController.java
- │    ├── DashboardController.java
- │    └── NotificationController.java
- │
- ├── entity/
- │    ├── User.java
- │    ├── Employee.java
- │    ├── Task.java
- │    ├── Notification.java
- │    ├── Role.java
- │    └── TaskStatus.java
- │
- ├── repository/
- │    ├── UserRepository.java
- │    ├── EmployeeRepository.java
- │    ├── TaskRepository.java
- │    └── NotificationRepository.java
- │
- ├── service/
- │    ├── AuthService.java
- │    ├── EmployeeService.java
- │    ├── TaskService.java
- │    ├── NotificationService.java
- │    └── DashboardService.java
- │
- └── CheckApplication.java
-```
-
----
 
 ## 📈 Sample Workflow
 
@@ -164,9 +165,16 @@ com.example.Check
  └────────────────────────┘
 ```
 
+---
+## Screenshots
+
+1.Login
+<img width="1375" height="728" alt="image" src="https://github.com/user-attachments/assets/a2355ea0-63f7-43bc-aa93-eb90703d5060" />
+
+
+
 
 ---
-
 ## 🧑‍💻 Author
 **Logeshwaran S**  
 📧 logeshwarans2910@gmail.com
